@@ -1,8 +1,7 @@
 {
-       "name": "Cat Buddy",
-       "symbol": "CBD",
-       "description": "A custom Solana token with 1 billion supply",
-       "image": "https://i.pinimg.com/1200x/83/c6/76/83c6767a2c9bf263e261f3b2d45c7b07.jpg"
-     }
+  "name": "Cat Buddy",
+  "symbol": "CBD",
+  "description": "A custom Solana token with 1 billion supply",
+  "image": "https://i.pinimg.com/1200x/83/c6/76/83c6767a2c9bf263e261f3b2d45c7b07.jpg"
 }
 
